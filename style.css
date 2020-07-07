@@ -44,3 +44,12 @@
     border: none;
     box-shadow: 5px 5px 10px lightslategray;
 }
+#contract-us {
+    height: 300px;
+}
+#contract-us h6 {
+    color: gray;
+}
+footer {
+    text-align: center;
+}
